@@ -1,4 +1,4 @@
-package org.example.dao.factory;
+package org.example.dao;
 
 public enum TypeDAO {
     H2,

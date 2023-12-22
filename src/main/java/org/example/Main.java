@@ -1,7 +1,7 @@
 package org.example;
 
 import org.example.dao.factory.FabricMethodDAO;
-import org.example.dao.factory.TypeDAO;
+import org.example.dao.TypeDAO;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
